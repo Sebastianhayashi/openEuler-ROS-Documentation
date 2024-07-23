@@ -1,2 +1,5 @@
 # openEuler-ROS-Documentation
-This repo is for complete the official openEuler ROS documentations
+
+This repo is based on this [task](https://github.com/jiuyewxy/weloveinterns/issues/7)
+
+
